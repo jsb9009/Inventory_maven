@@ -12,6 +12,9 @@
     </modules>
     <name>inventory-automation Maven Webapp</name>
     <url>http://maven.apache.org</url>
+
+    <!--set a common property for spring version and spring security-->
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
